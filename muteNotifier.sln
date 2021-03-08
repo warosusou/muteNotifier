@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "muteNotifier", "muteNotifier\muteNotifier.csproj", "{8CCAB75A-A13C-4130-9194-4CF8BAEF3B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CCAB75A-A13C-4130-9194-4CF8BAEF3B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCAB75A-A13C-4130-9194-4CF8BAEF3B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCAB75A-A13C-4130-9194-4CF8BAEF3B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCAB75A-A13C-4130-9194-4CF8BAEF3B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF4BF0AC-0029-4243-939F-0F79E0DF6151}
+	EndGlobalSection
+EndGlobal
