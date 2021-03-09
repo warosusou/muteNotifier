@@ -76,6 +76,7 @@ namespace muteNotifier
             this.endButton.TabIndex = 3;
             this.endButton.Text = "停止";
             this.endButton.UseVisualStyleBackColor = true;
+            this.endButton.Click += new System.EventHandler(this.endButton_Click);
             // 
             // label2
             // 
