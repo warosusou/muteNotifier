@@ -76,6 +76,11 @@ namespace muteNotifier
                                 muteDuration = 0;
                             }
                         }
+                        else
+                        {
+                            muteDuration = 0;
+                            isMute = false;
+                        }
                         updatingTimer.Enabled = true;
                     }
                 };
